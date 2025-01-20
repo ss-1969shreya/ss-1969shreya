@@ -1,5 +1,8 @@
 
 my first git repository
+<hr>
+
+author Shreya Sharma
 
 <!---
 ss-1969shreya/ss-1969shreya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
